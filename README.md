@@ -51,9 +51,9 @@ In the video below, I have explained the complete setup and working process in d
 
 📺 Watch here:
 
-```
-https://youtu.be/X7mt4jg6PoY
-```
+
+[https://youtu.be/X7mt4jg6PoY](https://youtu.be/X7mt4jg6PoY)
+
 
 The video explains the following topics in detail:
 
