@@ -118,6 +118,32 @@ You are free to use, modify, and distribute this project.
 
 ---
 
+## 🚀 Related Project: LifeLine Helmet – Smart Safety System
+
+I have also implemented this SMS alert system in a real-world safety project called **LifeLine Helmet – Smart Safety System**.
+
+This project is a smart helmet solution that:
+
+- Prevents ignition if the rider is drunk or not wearing a helmet  
+- Detects accidents using sensors  
+- Sends automatic SOS alerts with GPS location using the **TextBee.dev Cloud SMS API**
+
+By using TextBee instead of GSM modules, the system achieves:
+
+- ✅ Lower hardware cost  
+- ✅ Reduced power consumption  
+- ✅ No SIM card dependency  
+- ✅ Reliable internet-based messaging  
+
+This makes it a practical and scalable safety solution for two-wheeler riders.
+
+🔗 LifeLine Helmet Repository:
+
+[https://github.com/your-username/LifeLine-Helmet-Smart-Safety-System](https://github.com/hasheerahmed/lifeline-helmet-smart-safety-system.git)
+
+---
+
+
 ## 🙌 Author
 
 **Hasheer Ahmed**
