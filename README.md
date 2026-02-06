@@ -139,7 +139,7 @@ This makes it a practical and scalable safety solution for two-wheeler riders.
 
 🔗 LifeLine Helmet Repository:
 
-[https://github.com/your-username/LifeLine-Helmet-Smart-Safety-System](https://github.com/hasheerahmed/lifeline-helmet-smart-safety-system.git)
+[https://github.com/hasheerahmed/LifeLine-Helmet-Smart-Safety-System](https://github.com/hasheerahmed/lifeline-helmet-smart-safety-system.git)
 
 ---
 
